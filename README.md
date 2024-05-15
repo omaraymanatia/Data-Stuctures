@@ -1,6 +1,6 @@
 # Data Structures Repository
 
-This repository contains implementations of various data structures in Python.
+This repository contains implementations of various data structures in C++.
 
 ## Data Structures
 
@@ -37,16 +37,3 @@ File: `BinarySearchTree.py`
 ## How to Use
 
 Each data structure is provided as a separate Python file. You can use these files by importing them into your Python projects or running them directly to see their functionality.
-
-```python
-# Example usage of ArrayList
-from ArrayList import ArrayList
-
-# Create an instance of ArrayList
-arr_list = ArrayList()
-
-# Perform operations on the ArrayList
-arr_list.append(1)
-arr_list.append(2)
-arr_list.append(3)
-print(arr_list)
