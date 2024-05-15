@@ -36,4 +36,4 @@ File: `BST.h`
 
 ## How to Use
 
-Each data structure is provided as a separate Python file. You can use these files by importing them into your Python projects or running them directly to see their functionality.
+Each data structure is provided as a separate Python file. You can use these files by importing them into your CPP projects or running them directly to see their functionality.
