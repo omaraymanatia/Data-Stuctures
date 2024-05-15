@@ -6,7 +6,7 @@ This repository contains implementations of various data structures in C++.
 
 ### ArrayList
 
-An ArrayList is implemented using a dynamic array. It provides similar functionality to Python's built-in list data structure.
+An ArrayList is implemented using a dynamic array. It provides similar functionality to CPP's built-in vector data structure.
 
 File: `ArrayList.h`
 
@@ -36,4 +36,4 @@ File: `BST.h`
 
 ## How to Use
 
-Each data structure is provided as a separate Python file. You can use these files by importing them into your CPP projects or running them directly to see their functionality.
+Each data structure is provided as a separate CPP file. You can use these files by importing them into your CPP projects or running them directly to see their functionality.
